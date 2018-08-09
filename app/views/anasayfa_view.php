@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="tr">
     <head>
         <meta charset="UTF-8">
@@ -8,7 +8,7 @@
     </head>
     <body>
 
-        <h2>Anasayfaya Hoşgeldiniz</h2>
+        <h2>Anasayfaya Hoşgeldiniz</h2>deneme
 
     </body>
 </html>
